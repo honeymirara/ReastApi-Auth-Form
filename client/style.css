@@ -1,0 +1,170 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    line-height: normal;
+}
+
+.login-form {
+    width: 400px;
+    border-radius: 10px;
+    background: #121212;
+    width: 400px;
+    height: 400px;
+
+}
+
+.login {
+    color: #FFF;
+    font: 700 44 Inter;
+    text-align: center;
+    padding: 30px 0px;
+
+}
+
+.email-input input {
+    width: 352px;
+    padding: 10px;
+    font-family: Inter;
+    border-radius: 20px;
+    border: 2px solid #BB86FC;
+    background-color: #121212;
+    margin-top: 20px;
+}
+
+.password-input input {
+    width: 352px;
+    padding: 10px;
+    font-family: Inter;
+    background-color: #121212;
+    border-radius: 20px;
+    border: 2px solid #BB86FC;
+    margin-top: 20px;
+}
+
+.btn {
+
+    width: 153px;
+    padding: 10px 0;
+    border-radius: 20px;
+
+    background: #BB86FC;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    color: #FFF;
+}
+
+
+
+
+
+.reg-form {
+    width: 600px;
+    border-radius: 10px;
+    background: #121212;
+    width: 400px;
+    height: 500px; 
+    margin-top: 20px; 
+}
+
+
+.reg {
+    color: #FFF;
+    font: 700 44px Inter; 
+    text-align: center;
+    padding: 30px 0;
+}
+
+
+.username-input input {
+    width: 352px;
+    padding: 10px;
+    font-family: Inter;
+    border-radius: 20px;
+    border: 2px solid #BB86FC;
+    background-color: #121212;
+    margin-top: 20px;
+}
+
+
+.email-input input {
+    width: 352px;
+    padding: 10px;
+    font-family: Inter;
+    border-radius: 20px;
+    border: 2px solid #BB86FC;
+    background-color: #121212;
+    margin-top: 20px;
+}
+
+
+.phone-input input {
+    width: 352px;
+    padding: 10px;
+    font-family: Inter;
+    border-radius: 20px;
+    border: 2px solid #BB86FC;
+    background-color: #121212;
+    margin-top: 20px;
+}
+
+
+.password-input input {
+    width: 352px;
+    padding: 10px;
+    font-family: Inter;
+    border-radius: 20px;
+    border: 2px solid #BB86FC;
+    background-color: #121212;
+    margin-top: 20px;
+}
+
+
+.confirm-password-input input {
+    width: 352px;
+    padding: 10px;
+    font-family: Inter;
+    border-radius: 20px;
+    border: 2px solid #BB86FC;
+    background-color: #121212;
+    margin-top: 20px;
+}
+
+
+.btn-one {
+    width: 153px;
+    padding: 10px 0;
+    border-radius: 20px;
+    background: #BB86FC;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px; 
+    color: #FFF;
+}
+
+
+.btn-two {
+    width: 200px; 
+    padding: 10px 0;
+    border-radius: 20px;
+    background: transparent;
+    border: 2px solid #BB86FC;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    color: #BB86FC; /
+    
+}
+
+
+.btn-two a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+.btn-two:hover {
+    background-color: #BB86FC;
+    color: #121212;
+}
